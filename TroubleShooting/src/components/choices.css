@@ -1,0 +1,22 @@
+
+
+
+p1{
+    position: relative;
+    color: white;
+    left: 45px;
+    display: inline-block;
+    overflow: hidden;
+    white-space: nowrap;
+}
+
+
+.se{
+    position: absolute;
+    width: 400px;
+    left: 210px;
+    height: 40px;
+    top: 90px;
+    border-radius: 5px;
+}
+ 
